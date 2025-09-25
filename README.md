@@ -51,7 +51,7 @@ This project demonstrates a complete machine learning workflow from data preproc
 ## 📁 Project Structure
 
 ```
-house/
+Task3/
 ├── linear_regression_housing.py    # Main analysis script
 ├── housing_price_prediction_analysis.png    # Visualization results
 ├── Housing.csv                     # Original dataset (if applicable)
